@@ -1,0 +1,10 @@
+C:\Users\Данил\source\repos\Bloknot\bin\Debug\Bloknot.exe.config
+C:\Users\Данил\source\repos\Bloknot\bin\Debug\Bloknot.exe
+C:\Users\Данил\source\repos\Bloknot\bin\Debug\Bloknot.pdb
+C:\Users\Данил\source\repos\Bloknot\obj\Debug\Bloknot.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\Bloknot\obj\Debug\Bloknot.Form1.resources
+C:\Users\Данил\source\repos\Bloknot\obj\Debug\Bloknot.Properties.Resources.resources
+C:\Users\Данил\source\repos\Bloknot\obj\Debug\Bloknot.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\Bloknot\obj\Debug\Bloknot.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\Bloknot\obj\Debug\Bloknot.exe
+C:\Users\Данил\source\repos\Bloknot\obj\Debug\Bloknot.pdb
